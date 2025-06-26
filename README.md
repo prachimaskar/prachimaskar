@@ -15,7 +15,7 @@ I love learning new technologies and contributing to open-source projects on Git
 
 ## 📊 GitHub Stats
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-maskar&show_icons=true&theme=radical)  
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachimaskar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachimaskar&layout=compact&theme=radical)
 
 ---
