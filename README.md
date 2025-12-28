@@ -31,3 +31,4 @@ I love learning new technologies and contributing to open-source projects on Git
 
 - 📧 Email: prachimaskar184@gmail.com
 - 🐙 GitHub: https://github.com/prachimaskar
+- 💼 Linkedin: https://www.linkedin.com/in/prachimaskar
