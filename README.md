@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Prachi
 
-I'm a passionate developer with a strong interest in C++, Python, JavaScript, and full-stack web development.  
-I love learning new technologies and contributing to open-source projects on GitHub.
-
 ---
 ## 🛠 Skills
 
@@ -17,13 +14,6 @@ I love learning new technologies and contributing to open-source projects on Git
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachimaskar&show_icons=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=prachimaskar&theme=radical)
-
----
-## 💬 About Me
-
-- 🌱 Currently exploring and learning open-source contributions  
-- 🧠 Always curious about building better and cleaner software  
-- 🤝 Open to collaborating on meaningful and real-world projects  
 
 ---
 
