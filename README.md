@@ -42,7 +42,7 @@ Currently learning **DevOps, Kubernetes, and system design**.
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prachi-maskar-817486352">
+  <a href="https://www.linkedin.com/in/prachi-maskar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:prachimaskar184@gmail.com">
